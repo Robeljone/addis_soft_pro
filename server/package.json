@@ -17,7 +17,7 @@
     "server",
     "app"
   ],
-  "author": "Bipin Swarnkar",
+  "author": "Robel Yohannes",
   "license": "ISC",
   "dependencies": {
     "babel-preset-es2015-node6": "^0.4.0",
